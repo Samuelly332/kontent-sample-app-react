@@ -26,6 +26,7 @@
   src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
     url(./Fonts/SourceSansPro-Bold.woff) format('woff');
 }
+
 @font-face {
   font-family: 'Core-icons';
   src: url(./Fonts/Core-icons.eot);
